@@ -2,12 +2,14 @@
 
 ## Independent media
 
-- [**bellingcat**](https://www.bellingcat.com/tag/ukraine/) - Netherlands-based investigative journalism group that specialises in fact-checking and open-source intelligence.
-- [**The Kyiv Independent**](https://kyivindependent.com/about/) - Ukraine’s independent English-language media outlet.  
-  You can support them through [GoFundMe](https://www.gofundme.com/f/kyivindependent-launch) or via [Patreon](https://www.patreon.com/kyivindependent)
-- [**VoxCheck VoxUkraine**](https://voxukraine.org/en/category/voxukraine-informs/) - an established fact-checking project.
-- [**Nurnberg 2022**](https://www.nurnberg2022.org/en) - facts about the crimes of Putin's army against the civilian population of Ukraine.  
-  **Warning: 18+, greasy images, violence**
+- [**Al Jazeera**](https://www.aljazeera.com/where/gaza-strip/) - Qatar-based news network with extensive coverage of the Middle East.
+- [**Middle East Eye**](https://www.middleeasteye.net/news/gaza) - Independent news organization covering the Middle East and North Africa.
+- [**The Electronic Intifada**](https://electronicintifada.net/) - Independent online news publication focusing on Palestine.
+- [**+972 Magazine**](https://www.972mag.com/) - Independent, non-profit magazine run by a group of Palestinian and Israeli journalists.
+- [**B'Tselem**](https://www.btselem.org/) - The Israeli Information Center for Human Rights in the Occupied Territories.
 
-## State-funded media
-- [**BBC Monitoring (BBCM) subscription**](https://monitoring.bbc.co.uk/ouroffer)
+## International Organizations
+
+- [**United Nations Office for the Coordination of Humanitarian Affairs (OCHA)**](https://www.ochaopt.org/) - Provides up-to-date reports on the humanitarian situation.
+- [**Human Rights Watch**](https://www.hrw.org/middle-east/n-africa/israel/palestine) - Investigates and reports on abuses happening in all corners of the world.
+- [**Amnesty International**](https://www.amnesty.org/en/location/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/) - A global movement of people fighting injustice and promoting human rights.

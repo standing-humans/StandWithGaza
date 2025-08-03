@@ -1,41 +1,28 @@
-# Misbeliefs and misconceptions
+# Common Misconceptions about Gaza
 
-These are largely backed by Russian propaganda.
-Find More on [VoxCheck Ukraine](https://voxukraine.org/en/category/voxukraine-informs/).
-
----
-
-Claim: **Russian Armed Forces are performing a limited military operation in small part of Ukraine**  
-⛔️ False. The invasion is taking place over all regions bordering Russia and Belarus, as well as other regions inside of the sovereign Ukraine.
+This page aims to address some common misconceptions about the situation in Gaza.
 
 ---
 
-Claim: **Russian Armed Forces are involved in a humanitarian mission**  
-⛔️ False. They are shooting rockets and huge bombs (inc. prohibited weapons) into residential areas of largest Ukrainian cities, killing countless civilians.
+Claim: **The conflict is a "war between two equal sides."**  
+⛔️ False. This framing ignores the vast power imbalance between Israel, a nuclear-armed state with one of the world's most advanced militaries, and the Palestinians in Gaza, who have no army, navy, or air force. Gaza is a besieged territory, and its people are living under a 17-year blockade.
 
 ---
 
-Claim: **Ukrainian Armed forces are shelling Ukrainian cities**  
-⛔️ False. Russia is trying to shift photo facts of shellings, shifting responsibility to the Ukrainian Armed Forces for shelling civilians.
+Claim: **The issue is too complicated to understand.**  
+⛔️ While the history is long, the current situation is not as complicated as it's often made out to be. It is a humanitarian crisis rooted in decades of occupation, displacement, and the denial of basic human rights to the Palestinian people.
 
 ---
 
-Claim: **Ordinary Russians are not responsible for Putin's aggression**  
-⛔️ False. The answer is lengthy so [please read this article](https://detector.media/in-english/article/197381/2022-03-11-the-reasons-every-russian-is-responsible-for-this-war) (or [this](https://www.atlanticcouncil.org/blogs/ukrainealert/not-just-putin-most-russians-support-the-war-in-ukraine/), or [this](https://www.opendemocracy.net/en/odr/what-do-ordinary-russians-think-about-the-invasion-of-ukraine/)).
+Claim: **This is a religious conflict between Jews and Muslims.**  
+⛔️ False. This is a political conflict over land, resources, and self-determination. Framing it as a religious war is a dangerous oversimplification that erases the political and historical context. Many Jewish people around the world, including in Israel, stand in solidarity with Palestinians.
 
 ---
 
-Claim: **Ukrainian civilians are not eligible to make and use the ["Molotov cocktail"](https://en.wikipedia.org/wiki/Molotov_cocktail) (petrol bomb)**  
-⛔️ False. Ukraine officially allowed making and using such bombs against invaders. Russian soldiers are scared to be destroyed by civilans using those DIY bombs.
+Claim: **All Palestinians in Gaza are members of Hamas.**  
+⛔️ False. Hamas is a political party that governs the Gaza Strip. The vast majority of Gaza's 2.3 million residents are civilians, and more than half of them are children. It is a violation of international law to collectively punish an entire population for the actions of its government.
 
 ---
 
-Claim: **Russian troops are able to advance immediately and everywhere across Ukraine**  
-⛔️ False. Russian forces are very limited in their movement in Ukraine (which is one of the largest european countries). Russia is trying to focus on the easily reachable targets, yet is still slowing down the invasion due to lack of resources and issues with logistics.
-
----
-
-Claim: **Kyiv is surrounded and begs for mercy**  
-⛔️ False. Russian forces are trying to surround the capital of Ukraine, but they are far from success.
-
----
+Claim: **Israel has a right to defend itself.**  
+International law grants a state the right to self-defense, but it does not grant an occupying power the right to use military force against the people it occupies. Furthermore, the principle of proportionality in international law dictates that a state's response must be commensurate with the threat it faces. The scale of destruction and civilian casualties in Gaza has been widely condemned as disproportionate.

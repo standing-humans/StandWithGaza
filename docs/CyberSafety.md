@@ -1,13 +1,32 @@
-Along with the physical invasion of Ukraine, Russia is also going crazy with it's cyber attacks.  
-Here is a list of simple, yet effective counter-measures:
+# Cyber Safety for Activists
 
-1. Change passwords on mail, social accounts, etc.
-2. Use a password manager, to ensure your passwords are not reused
-3. Enable 2FA (two-factor authentication) where possible
-4. Create an additional channel of communication with important contacts (i.e. Signal/Slack/Teams)
-5. Remove all Russian and potentially harmful apps from your smartphones and other equipment
-   - **High risk** (remove now):  
-     Viber, Photo Lab, FaceApp
-   - **Low risk** (**remove all unnecessary permissions** in the app settings):  
-     Telegram
-6. Keep your Location Services **off** (i.e, GPS). Turn on strictly when needed.
+In the context of activism and advocacy for Palestine, digital security is of utmost importance. Here are some simple, yet effective counter-measures to protect yourself online:
+
+1. **Secure Your Accounts:**
+    * Use strong, unique passwords for all your accounts.
+    * Enable two-factor authentication (2FA) wherever possible.
+    * Use a reputable password manager to keep track of your passwords.
+
+2. **Encrypt Your Communications:**
+    * Use end-to-end encrypted messaging apps like Signal for sensitive conversations.
+    * Be mindful of what you share on less secure platforms.
+
+3. **Protect Your Anonymity:**
+    * Use a trusted VPN (Virtual Private Network) to mask your IP address and encrypt your internet traffic.
+    * Consider using the Tor Browser for enhanced anonymity.
+
+4. **Be Wary of Phishing and Malware:**
+    * Be cautious of suspicious emails, links, and attachments.
+    * Keep your software and devices up to date with the latest security patches.
+    * Use a reliable antivirus and anti-malware solution.
+
+5. **Social Media Security:**
+    * Review your privacy settings on all social media platforms.
+    * Be mindful of the information you share publicly.
+    * Be aware of doxxing and online harassment campaigns.
+
+6. **Location Services:**
+    * Keep your location services (GPS) turned off when not needed.
+    * Be careful about geotagging your photos and posts.
+
+This is not an exhaustive list, but it provides a starting point for enhancing your digital security. Stay informed and stay safe.

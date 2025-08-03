@@ -1,67 +1,36 @@
-# StandWithUkraine
+# StandWithGaza
 
-<a href="#"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-no-action.svg" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/standing-humans/StandWithGaza/main/banner2-no-action.svg" /></a>
 
- 📢 [Updates from Ukrainian Open Source Community](CommunityUpdates.md)  
- 🇷🇺 [Обращение к гражданам России](ToRussianPeople.md)
+ 📢 [Updates from Standing Human Tech Community](CommunityUpdates.md)  
+ 🇵🇸 [A message to the world](ToTheWorld.md)
 
-## Support Ukraine
+## Support Gaza
 
-### Donate via the National Bank of Ukraine
+### Donate to Humanitarian Organizations
 
-The best way to financially support Ukraine is by donating directly to one of the special accounts opened by the National Bank of Ukraine.
-These funds will be used to finance local humanitarian relief, as well as Ukraine's Armed Forces.
+The most effective way to help is by donating to established humanitarian organizations providing aid in Gaza. These funds will be used for medical supplies, food, water, and shelter for civilians affected by the crisis.
 
-- 💵 [**Donate to the military**](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi) — funds used to buy equipment, ammunition, vehicles, etc. for frontline soldiers.
-- 💵 [**Donate to the humanitarian campaign**](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi) — funds used to provide relief to civilians endangered by the war.
+> ⚠️ Be cautious of individual fundraising campaigns. It is recommended to donate to well-known, registered non-profit organizations.
 
-### Donate via United24
+Below is a list of reputable organizations providing critical aid in Gaza. Please consider a recurring donation if possible.
 
-- 💵 [**United24**](https://u24.gov.ua/) - funds used for defense and demining, medical aid and rebuilding of Ukraine.
-
-### Donate to Non-Government Organizations
-
-> ⚠️ Refrain from sending money to **any crypto wallets**, except those found on official charity websites.<br>
-> ⚠️ **DO NOT** donate to Red Cross International, donate to [Ukrainian Red Cross](https://redcross.org.ua/en/donate) instead.
-
-Below is a list of non-profits that currently operate in Ukraine.
-Please opt-in for a monthly payment, if possible.
-
-- 💵 [**Come Back Alive**](https://savelife.in.ua/en/donate-en/) — funds used to buy equipment for frontline soldiers as well as territorial defense units.
-- 💵 [**Serhiy Prytula Charity Foundation**](https://prytulafoundation.org/en) — funds used to buy **non-lethal** equipment and transport vehicles for the military and to provide humanitarian aid to Ukrainians affected by the war.
-- 💵 [**Sternenko Community**](https://www.sternenkofund.org/en) — foundation is established to continuously provide Ukrainian Defense Forces with drones, primarily of the FPV type, as well as to promote the development of unmanned technologies.
-- 💵 [**Dzyga’s Paw**](https://dzygaspaw.com/) — supplies the Ukrainian military with high-tech equipment.
-- 💵 [**Hospitallers Battalion**](https://www.hospitallers.life/needs-hospitallers) — funds used to buy supplies and equipment for medics on the frontline.
-- 💵 [**Ukrainian Red Cross**](https://redcross.org.ua/en/donate/) — provides humanitarian relief to Ukrainians affected by the war.
-- 💵 [**DonorUA**](https://donor.ua/support) — coordinates voluntarily blood transfusions in Ukraine.
-- 💵 [**Voices of Children**](https://voices.org.ua/en/) — provides food, water, hygiene kits, cash, and psychosocial support to children and families.
-- 💵 [**Army SOS**](https://armysos.com.ua/en/) — provides food and other support to Ukrainian troops.
-- 💵 [**Territory of Kindness**](https://vuf-td.space/en/) — provides support to children, army, help with medical supplies procurement.
-- 💵 [**People In Need**](https://www.peopleinneed.net/donate/once) (select `SOS Ukraine`) — focuses on providing food, clean water, and hygienic products to those impacted by Russian aggression.
-- 💵 [**Nova Ukraine**](https://novaukraine.org/donate/) — provides humanitarian aid and raises awareness about Ukraine. [501(c)3, Tax ID 46-5335435].
-- 💵 [**Save the Children**](https://support.savethechildren.org/site/Donation2?df_id=5746&mfc_pref=T&5746.donation=form1) — helps children by providing food and shelter. [501(c)3, Tax ID 06-0726487].
-- 💵 [**UNICEF USA**](https://www.unicefusa.org/war-ukraine?form=FUNKBHMZQDQ) — provides access to safe water, nutrition, health care, education and protection. [501(c)3, Tax ID 13-1760110].
-- 💵 [**Soloma Cats**](https://kittysoloma.org/en) — charitable foundation that focuses on **tactical medicine** and **demining**.
-- 💵 [**World Central Kitchen**](https://wck.org/) — provides fresh food and hot meals to Ukrainians.
-- 💵 [**United Help Ukraine**](https://unitedhelpukraine.org/) — charitable foundation that supports wounded warriors' rehabilitation and internally displaced persons' needs [501(c)3, Tax ID 47-1837509].
-- 💵 [**Leleka Foundation**](https://leleka.care/) — a non-profit organization that equips medical professionals saving lives in Ukraine **since 2014** [501(c)3, Tax ID 47-2377309].
-- 💵 [**Sprava Hromad**](https://spgr.org.ua/en/donate/) — funds are being used to buy armored and transport vehicles, medium and heavy trucks, large UAV systems, communication systems, etc. for frontline UAF divisions.
-- 💵 [**Opir**](https://opir.org/) - focuses on providing individual items and equipment to fighters at the platoon and group levels.
-- 💵 [**Dignitas Ukraine Inc**](https://dignitas.fund/) — Supporting people of Ukraine through the provision of essential humanitarian supplies, technology, training initiatives and expert guidance [501(c)3, Tax ID 92-3194330].
+- 💵 [**Palestine Red Crescent Society (PRCS)**](https://www.palestinercs.org/en) - Primary provider of emergency medical and ambulance services.
+- 💵 [**Palestine Children's Relief Fund (PCRF)**](https://www.pcrf.net) - Provides free medical care for injured and ill children.
+- 💵 [**Medical Aid for Palestinians (MAP)**](https://www.map.org.uk) - Works for the health and dignity of Palestinians living under occupation and as refugees.
+- 💵 [**ANERA**](https://www.anera.org/where-we-work/palestine/gaza/) - Provides humanitarian assistance and sustainable development to advance the well-being of refugees and other vulnerable communities.
+- 💵 [**Islamic Relief**](https://islamic-relief.org/appeals/palestine-emergency-appeal/) - An independent humanitarian and development organisation with a presence in over 40 countries.
+- 💵 [**International Rescue Committee (IRC)**](https://www.rescue.org/crisis-in-gaza) - Responds to the world’s worst humanitarian crises and helps people to survive and rebuild their lives.
+- 💵 [**Action Against Hunger**](https://www.actionagainsthunger.org.uk/gaza-crisis-appeal) - A global humanitarian organization that takes decisive action against the causes and effects of hunger.
 
 ### Other ways to help
 
 - 🗣 Don't be silent:
-  - [Add banners](AddBanner.md) to your OSS projects and profiles. See [examples](https://github.com/vshymanskyy/StandWithUkraine#projects-that-standwithukraine).
-  - Protest against the war in your city.
-  - Demand severe sanctions against Russia and support for Ukraine from your leaders.
-  - Reach out to Ukrainian friends, offer help.
-- ❌ Boycott Russian businesses:
-  - Cancel subscriptions and [stop giving your money to Russian companies](Boycott.md).
-  - Get rid of Russian [software, dependencies and infrastructure](Boycott.md).
-  - Suffocate Russian economy to limit its ability to fund the war!
+  - [Add banners](AddBanner.md) to your OSS projects and profiles. See [examples](https://github.com/standing-humans/StandWithGaza#projects-that-standwithgaza).
+  - Raise awareness about the humanitarian crisis in Gaza.
+  - Demand that your leaders support humanitarian aid and civilian protection.
+- ❌ Boycott companies complicit in the occupation:
+  - Cancel subscriptions and [stop giving your money to companies that support or profit from the occupation](Boycott.md).
 - 📰 Resist propaganda:
-  - Educate yourself and others on the Russian threat, read [reputable news](WarNews.md).
-  - Check out [common misbeliefs](Misconceptions.md).
-- ⚔ Join the Foreign Legion of Ukraine:
-  - [Fight for Ukraine!](https://fightforua.org)
+  - Educate yourself and others on the situation in Gaza, read [reputable news](WarNews.md).
+  - Check out [common misconceptions](Misconceptions.md).

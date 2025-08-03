@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="155" height="20" role="img" aria-label="#StandWithGaza: 🇵🇸">
+  <title>#StandWithGaza: 🇵🇸</title>
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <clipPath id="r">
+    <rect width="155" height="20" rx="3" fill="#fff"/>
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="119" height="20" fill="#555"/>
+    <!-- Palestinian flag stripes on the right -->
+    <rect x="119" y="0" width="36" height="6.66" fill="#000"/>
+    <rect x="119" y="6.66" width="36" height="6.67" fill="#fff"/>
+    <rect x="119" y="13.33" width="36" height="6.67" fill="#007A3D"/>
+    <!-- Red triangle on the left of the flag section -->
+    <polygon points="119,0 119,20 130,10" fill="#CE1126"/>
+    <rect width="155" height="20" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <text aria-hidden="true" x="605" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1090">#StandWithGaza</text>
+    <text x="605" y="140" transform="scale(.1)" fill="#fff" textLength="1090">#StandWithGaza</text>
+  </g>
+</svg>

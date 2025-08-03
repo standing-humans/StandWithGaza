@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="155" height="20" role="img" aria-label="#StandWithGaza: 🇵🇸">
+  <style type="text/css">
+    .st0{fill:#555555;}
+    .st1{fill:#000000;} /* Black stripe */
+    .st2{fill:#FFFFFF;} /* White stripe */
+    .st3{fill:#007A3D;} /* Green stripe */
+    .st4{fill:#CE1126;} /* Red triangle */
+    .st5{fill:none;}
+    .st6{fill:#FFFFFF;}
+    .st7{font-family:'Verdana';}
+    .st8{font-size:11px;}
+  </style>
+  <g shape-rendering="crispEdges">
+    <rect class="st0" width="122.9" height="20"/>
+    <!-- Palestinian flag: three horizontal stripes and red triangle -->
+    <rect x="122.9" y="0" class="st1" width="38.3" height="6.66"/>
+    <rect x="122.9" y="6.66" class="st2" width="38.3" height="6.67"/>
+    <rect x="122.9" y="13.33" class="st3" width="38.3" height="6.67"/>
+    <!-- Red triangle on the left of the flag part -->
+    <polygon class="st4" points="122.9,0 122.9,20 132.7,10"/>
+  </g>
+  <g text-rendering="geometricPrecision">
+    <rect x="6.2" y="4.5" class="st5" width="109" height="12.8"/>
+    <text transform="matrix(1 0 0 1 6.166 14)" class="st6 st7 st8">#StandWithGaza</text>
+  </g>
+</svg>

@@ -13,19 +13,33 @@ svg {
 svg|a:link, svg|a:visited {
   cursor: pointer;
 }
-.flag-blue {
-  fill: #0056b3;
+.flag-black {
+  fill: #000000;
 }
-.flag-yellow {
-  fill: #ffd700;
+.flag-white {
+  fill: #FFFFFF;
+}
+.flag-green {
+  fill: #007A3D;
+}
+.flag-red {
+  fill: #CE1126;
 }
 .message {
   fill: white;
   font-size: 18px;
+  stroke: #007A3D;
+  stroke-width: 2px;
+  stroke-linejoin: round;
+  paint-order: stroke fill;
 }
 .call {
-  fill: black;
+  fill: #CE1126;
   font-size: 22px;
+  stroke: #FFFFFF;
+  stroke-width: 2px;
+  stroke-linejoin: round;
+  paint-order: stroke fill;
 }
 .arrow {
   font-size: 14px;
@@ -36,25 +50,30 @@ svg|a:link, svg|a:visited {
   <clipPath id="round-corners"><rect width="100%" height="100%" rx="3" /></clipPath>
 </defs>
 
-  <a href="https://stand-with-ukraine.pp.ua">
+  <a href="https://github.com/standing-humans/StandWithGaza">
     <g clip-path="url(#round-corners)">
-      <rect x="0" y="0" width="100%" height="100%" class="flag-yellow"/>
-      <rect x="0" y="0" width="100%" height="90px" class="flag-blue"/>
+      <!-- Palestinian flag pattern: black stripe on top -->
+      <rect x="0" y="0" width="100%" height="30px" class="flag-black"/>
+      <!-- White stripe in middle -->
+      <rect x="0" y="30" width="100%" height="30px" class="flag-white"/>
+      <!-- Green stripe on bottom -->
+      <rect x="0" y="60" width="100%" height="30px" class="flag-green"/>
+      <!-- Red triangle on left -->
+      <polygon points="0,0 0,90 150,45" class="flag-red"/>
     </g>
 
-    <text x="0" y="25" class="message">${ id.includes('default') ?  '' : `
-      <tspan x="30" dy="0.2em">${
-        id === 'single' ? 'This project was created by a <tspan font-weight="bold">developer from Ukraine</tspan>.' :
-        id === 'team' ? 'This project was created by a <tspan font-weight="bold">team from Ukraine</tspan>.' :
-        id === 'personal' ? 'This is a personal profile of an <tspan font-weight="bold">open source developer from Ukraine</tspan>.' :
-        'This project was developed with substantial contributions by <tspan font-weight="bold">Ukrainian developers</tspan>.'
-      }</tspan>`}
-      <tspan x="30" dy="${ id.includes('default') ? 0.8 : 1.2 }em">Russia invaded Ukraine, killing tens of thousands of civilians and displacing millions more.</tspan>
-      <tspan x="30" dy="1.2em">It's a genocide. Please help us defend freedom, democracy and Ukraine's right to exist.</tspan>
+    <text x="0" y="25" class="message">${id.includes('default') ? '' : `
+      <tspan x="30" dy="0.2em">${id === 'single' ? 'This project was created by a <tspan font-weight="bold">Standing Human-developer</tspan>.' :
+      id === 'team' ? 'This project was created by a <tspan font-weight="bold">Standing Human-team</tspan>.' :
+        id === 'personal' ? 'This is a personal profile of an <tspan font-weight="bold">open source Standing Human-developer</tspan>.' :
+          'This project was developed with substantial contributions by <tspan font-weight="bold">Standing Humans</tspan>.'
+    }</tspan>`}
+      <tspan x="30" dy="${id.includes('default') ? 0.8 : 1.2}em">Gaza faces a catastrophic humanitarian crisis with over 2 million people needing aid.</tspan>
+      <tspan x="30" dy="1.2em">Please help us support humanitarian relief and Palestinian civilians' right to safety.</tspan>
     </text>
 
     <text x="50%" y="86%" dominant-baseline="middle" text-anchor="middle" class="call">
-      Help Ukraine Now${ id === 'default-header' ? '' : ' <tspan dominant-baseline="middle" class="arrow">➔</tspan>'}
+      Help Gaza Now${id === 'default-header' ? '' : ' <tspan dominant-baseline="middle" class="arrow">➔</tspan>'}
     </text>
   </a>
 
