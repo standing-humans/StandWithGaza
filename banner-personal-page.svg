@@ -31,8 +31,8 @@
     .message {
       fill: white;
       font-size: 18px;
-      stroke: #007A3D;
-      stroke-width: 2px;
+      stroke: black;
+      stroke-width: 4px;
       stroke-linejoin: round;
       paint-order: stroke fill;
     }
@@ -41,7 +41,7 @@
       fill: #CE1126;
       font-size: 22px;
       stroke: #FFFFFF;
-      stroke-width: 2px;
+      stroke-width: 4px;
       stroke-linejoin: round;
       paint-order: stroke fill;
     }
@@ -70,8 +70,7 @@
     </g>
 
     <text x="0" y="25" class="message">
-      <tspan x="30" dy="0.2em">This is a personal profile of an <tspan font-weight="bold">open source developer from
-          Gaza</tspan>.</tspan>
+      <tspan x="30" dy="0.2em">This is a personal profile of an <tspan font-weight="bold">open source Standing Human - Developer</tspan>.</tspan>
       <tspan x="30" dy="1.2em">Gaza faces a catastrophic humanitarian crisis with over 2 million people needing aid.
       </tspan>
       <tspan x="30" dy="1.2em">Please help us support humanitarian relief and Palestinian civilians' right to safety.

@@ -28,8 +28,8 @@ svg|a:link, svg|a:visited {
 .message {
   fill: white;
   font-size: 18px;
-  stroke: #007A3D;
-  stroke-width: 2px;
+  stroke: black;
+  stroke-width: 4px;
   stroke-linejoin: round;
   paint-order: stroke fill;
 }
@@ -37,7 +37,7 @@ svg|a:link, svg|a:visited {
   fill: #CE1126;
   font-size: 22px;
   stroke: #FFFFFF;
-  stroke-width: 2px;
+  stroke-width: 4px;
   stroke-linejoin: round;
   paint-order: stroke fill;
 }
